@@ -1,0 +1,33 @@
+img{
+    border-radius: 10px;
+    margin: 10px;
+    vertical-align: middle;
+}
+a{
+    line-height: inherit;
+    margin: 20px;
+    color: forestgreen;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    font-size: 40px;
+    font-style: italic;
+    cursor: pointer;
+}
+.forma {
+    float: left;
+}
+.cuerpo{
+    background-color: chocolate;
+}
+.opciones{
+    background-color: aquamarine;
+}
+body{
+    background-image: url("https://cdn-icons-png.flaticon.com/512/1040/1040526.png");
+    background-size: 20rem;
+}
+.pasteles{
+    text-decoration: aqua;
+}
